@@ -1,9 +1,9 @@
 Restaurant Website Demo
 
 ## 🚀 Live Demo
-**[View Live Website](https://your-deployment-url.netlify.app)** ← Replace with your actual deployment link
+**[View Live Website](https://laxmikant2002.github.io/Food-ordering-system/)** 
 
-> Deploy this project easily on [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), [GitHub Pages](https://pages.github.com/), or any static hosting service.
+> Deploy this project easily on [GitHub Pages](https://pages.github.com/), or any static hosting service.
 
 ---
 
